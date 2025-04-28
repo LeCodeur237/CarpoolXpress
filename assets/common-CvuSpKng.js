@@ -1,0 +1,1 @@
+import{D as e}from"./datetime-xmklhC0O.js";const a=e=>`$${e?.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g,",")}`,t=(a,t)=>{const s=e.now(),r=e.fromISO(a);return t?r.toRelativeCalendar({base:s}):r.toRelative({base:s})},s=(e,a)=>e?.length>a+4?`${e?.substring(0,a)} ...`:e,r=e=>JSON.parse(JSON.stringify(e));export{r as a,s as b,a as f,t as r};
