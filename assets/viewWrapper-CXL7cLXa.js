@@ -1,0 +1,1 @@
+import{B as e,r as s,j as t,X as a,ae as o}from"./index-9E-GM-ra.js";const u=e("viewWrapper",(()=>{const e=s(!1),u=s(!1),i=s("Welcome");let n;return{isPushed:e,isPushedBlock:u,pageTitle:i,setPushed:function(s){e.value=s},setPushedBlock:function(e){u.value=e},setPageTitle:function(e){n&&(n(),n=void 0),t(e)||"function"==typeof e?n=a((()=>{i.value=o(e)})):i.value=e}}}));export{u};
