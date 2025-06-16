@@ -1,0 +1,1 @@
+import{u as o}from"./viewWrapper-Bt2ctQXZ.js";import{e as s,o as t,t as e,v as a}from"./index-D0hxrqC2.js";import{b as i}from"./route-block-B_A1xBdJ.js";const n={class:"page-content-inner"},r=s({__name:"negociations",setup(s){const i=o();return t((async()=>{i.setPageTitle("List of Negociations")})),(o,s)=>(e(),a("div",n))}});"function"==typeof i&&i(r);export{r as default};
