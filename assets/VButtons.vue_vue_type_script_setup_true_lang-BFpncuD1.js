@@ -1,0 +1,1 @@
+import{e as s,t as a,v as o,M as t,A as n}from"./index-DS7wE-jD.js";const d=s({__name:"VButtons",props:{align:{default:void 0},addons:{type:Boolean}},setup(s){const d=s;return(s,e)=>(a(),o("div",{class:n(["buttons",[d.addons&&"has-addons",d.align&&`is-${d.align}`]])},[t(s.$slots,"default")],2))}});export{d as _};
